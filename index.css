@@ -549,7 +549,7 @@ body {
   --bg-color: rgb(10, 10, 10);
   --text-color: #fff;
   --blog-gray-color: rgb(180, 180, 180);
-  --background-image: url("https://raw.githubusercontent.com/made0fjell0/made0fjell0.github.io/refs/heads/main/images.png");
+  --background-image: url("https://raw.githubusercontent.com/made0fjell0/made0fjell0.github.io/refs/heads/main/dWwjHWd.png");
   --height: 50vh;
 }
 
@@ -575,6 +575,6 @@ body {
 
 @media (max-width: 800px) {
   :root {
-    --background-image: url("https://raw.githubusercontent.com/made0fjell0/made0fjell0.github.io/refs/heads/main/images.png") !important;
+    --background-image: url("https://raw.githubusercontent.com/made0fjell0/made0fjell0.github.io/refs/heads/main/dWwjHWd.png") !important;
   }
 }
