@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://wallpaper-a-day.com/wp-content/uploads/2018/01/tumblr_p25i9tlbux1u36eloo1_1280.png");
+    url("https://raw.githubusercontent.com/made0fjell0/made0fjell0.github.io/refs/heads/main/images.png");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://wallpaper-a-day.com/wp-content/uploads/2018/01/tumblr_p25i9tlbux1u36eloo1_1280.png") center center fixed;
+    url("https://raw.githubusercontent.com/made0fjell0/made0fjell0.github.io/refs/heads/main/images.png") center center fixed;
   --height: 50vh;
 }
 
@@ -591,6 +591,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("https://wallpaper-a-day.com/wp-content/uploads/2018/01/tumblr_p25i9tlbux1u36eloo1_1280.png") !important;
+      url("https://raw.githubusercontent.com/made0fjell0/made0fjell0.github.io/refs/heads/main/images.png") !important;
   }
 }
